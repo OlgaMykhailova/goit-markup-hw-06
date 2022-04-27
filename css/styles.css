@@ -203,7 +203,10 @@ img {
 }
 
 .button-main,
-.button-secondary {
+.button-secondary,
+.close-button,
+.request-form-submit-button,
+.subscription-button {
   cursor: pointer;
   font-family: roboto, sans-serif;
 }
